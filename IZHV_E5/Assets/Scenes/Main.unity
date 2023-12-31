@@ -3192,6 +3192,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 5726691811453544955}
     m_Modifications:
     - target: {fileID: 2018368781327236420, guid: 1b32446a8efa7c3419248aee606e999e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2018368781327236420, guid: 1b32446a8efa7c3419248aee606e999e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2018368781327236420, guid: 1b32446a8efa7c3419248aee606e999e, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2018368781327236420, guid: 1b32446a8efa7c3419248aee606e999e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -3520,19 +3532,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6621711666501248908, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_NormalizedViewPortRect.x
-      value: 0.32486773
+      value: 0.08852868
       objectReference: {fileID: 0}
     - target: {fileID: 6621711666501248908, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_NormalizedViewPortRect.y
-      value: 0.2428115
+      value: 0.06504065
       objectReference: {fileID: 0}
     - target: {fileID: 6621711666501248908, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 0.34920636
+      value: 0.8229427
       objectReference: {fileID: 0}
     - target: {fileID: 6621711666501248908, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_NormalizedViewPortRect.height
-      value: 0.51118207
+      value: 0.8672087
       objectReference: {fileID: 0}
     - target: {fileID: 6651688984957350485, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_RootOrder
